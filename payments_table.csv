@@ -1,0 +1,6 @@
+Payment_Type,Description,Lang
+P,Partialy Paid,EN
+F,Fully Paid,EN
+C,Cheque,DS
+D,Debit Card,EN
+,,
